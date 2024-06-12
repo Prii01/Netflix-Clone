@@ -1,2 +1,2 @@
 # Netflix-Clone
-A clone of the netflix login page using html and css
+A clone of netflix login page using HTML and CSS
