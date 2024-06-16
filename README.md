@@ -2,5 +2,5 @@
 <h2>A Netflix Login Page Using</h2>
 <li>HTML</li>
 <li>CSS</li>
-
-<img src="page.png">
+<br>
+<img src="page.png" height="500" width="500">
