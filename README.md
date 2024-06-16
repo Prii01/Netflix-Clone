@@ -3,4 +3,4 @@
 <li>HTML</li>
 <li>CSS</li>
 <br>
-<img src="page.png" height="500" width="500">
+<img src="page.png" height="300" width="500">
